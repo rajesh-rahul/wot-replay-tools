@@ -1,10 +1,10 @@
-# [Wot Replay Tools](https://dacite.github.io/wot-replay-tools)
+# [Wot Replay Tools](https://rajesh-rahul.github.io/wot-replay-tools)
 
 This application aims to provide some functionalities to visualize data from `.wotreplay` files. Thanks to WebAssembly and Rust, replays are ready to visualize almost instantly. The application runs entirely in your browser and is a essentially a static website. 
 
 Currently, it does not provide much utility as it is a **work in progress**.
 
-**Use here**: https://dacite.github.io/wot-replay-tools
+**Use here**: https://rajesh-rahul.github.io/wot-replay-tools
 ## Features
 - Very basic display of tank positions
 
